@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHAID SK</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Competitive+Programming.;I+bbuild+cool+projects+with+Python+%26+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+Competitive+Programmer;and+Backend+Developer;C+Cpp+Python+java+JS;NodeJS+Django+Flask+MongoDB;DSA+Git+Linux+APIs" alt="Typing SVG" />
 </p>
 
 ---
