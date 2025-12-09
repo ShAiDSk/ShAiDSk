@@ -37,9 +37,10 @@
 
 ### 🚀 Featured Projects
 
-- 🔷 **[AlgoView-DSA-Visualizer](https://github.com/SHAIDSK/AlgoView-DSA-Visualizer)** – Visualizes BFS, DFS, QuickSort, and more in React + Tailwind + Framer Motion.
+- 🔷 **[AlgoView-DSA-Visualizer](https://github.com/ShAiDSk/Progress_Tracker)** – A Modern Interactive Goal Tracking Platform - Laravel 12, PHP 8.4, TailwindCSS, Alpine.js, Vite, SQLite, Breeze Auth, SweetAlert, Custom Blade
+- 🔶 **[DevProfile-Analyzer](https://github.com/ShAiDSk/input-type-api)** – A lightweight Flask API that detects and classifies input types (string, number, float, boolean, email, URL, hash, etc.) with a simple frontend UI for real-time validation.
+- 🔴 **[AlgoView-DSA-Visualizer](https://github.com/SHAIDSK/AlgoView-DSA-Visualizer)** – Visualizes BFS, DFS, QuickSort, and more in React + Tailwind + Framer Motion.
 - 🔶 **[DevProfile-Analyzer](https://github.com/SHAIDSK/DevProfile-Analyzer)** – Analyze competitive profiles from Codeforces and CodeChef.
-- 🔴 **[TODOX](https://github.com/SHAIDSK/TODOX-Task_manager_app)** – Full-featured task manager with auth and due-date reminders.
 - 🧩 **[SHAIDSKCode](https://github.com/SHAIDSK/SHAIDSKCode)** – C++ snippets and templates for CP.
 
 ---
