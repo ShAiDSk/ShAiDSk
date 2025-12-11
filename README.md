@@ -66,7 +66,8 @@ A modern and clean goal tracking platform with streaks, auth, and dashboards.
 
 ✔ Laravel 12 • PHP 8.4  
 ✔ Breeze Auth • TailwindCSS • Alpine.js  
-✔ Streak monitoring • Custom Blade components
+✔ Streak monitoring • Custom Blade components </br>
+✔ Other Tech Stack: SQLite, SweetAlert, RESTful routing, MVC architecture, session management, custom Blade templates, migration system.
 
 👉 Repo: https://github.com/ShAiDSk/Progress_Tracker
 
@@ -78,7 +79,8 @@ Analyze Codeforces, CodeChef & AtCoder profiles with rating graphs.
 
 ✔ BeautifulSoup API scraping  
 ✔ Chart.js visualizations  
-✔ Caching engine for fast responses
+✔ Caching engine for fast responses </br>
+✔ Tech Stack: Flask | Python | BeautifulSoup | Chart.js
 
 👉 Repo: https://github.com/SHAIDSK/DevProfile-Analyzer
 
@@ -90,7 +92,8 @@ Interactive visualizer for BFS, DFS, QuickSort, MergeSort.
 
 ✔ React + TypeScript  
 ✔ Framer Motion animations  
-✔ Adjustable speed and steps
+✔ Adjustable speed and steps </br>
+✔ Tech Stack: React | TypeScript | Framer Motion | TailwindCSS
 
 👉 Repo: https://github.com/SHAIDSK/AlgoView-DSA-Visualizer
 
