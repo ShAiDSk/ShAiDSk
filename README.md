@@ -1,27 +1,43 @@
 <h1 align="center">Hi 👋, I'm SHAID SK</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+Competitive+Programmer;and+Backend+Developer;C+Cpp+Python+java+JS;NodeJS+Django+Flask+MongoDB;DSA+Git+Linux+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Backend+Developer+%7C+Laravel+Node.js+Python;PHP+JavaScript+TypeScript+Java;Django+Flask+SQLite+MongoDB;DSA+Git+Linux+APIs" />
 </p>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-- 🌱 Currently diving deep into **Competitive Programming**
-- 🔭 Working on multiple cool projects like:
+- 🔥 Full Stack Developer focusing on **Laravel, Node.js, and Python**
+- 🎯 Solved **1000+ DSA problems** across Codeforces, CodeChef & AtCoder  
+- 🚀 Working on:
+  - **Progress Tracker (Laravel)**
   - **AlgoView – DSA Visualizer**
   - **DevProfile Analyzer**
-  - **ToDoX – Task Manager**
-- 🧠 I love building tools that automate, visualize, or improve workflows.
-- ✍️ I share code that helps others learn & grow.
-- ⚡ Fun fact: I debug better with Lo-Fi in the background 🎧
+- 🧠 Passionate about backend systems, automation, and fast APIs  
+- 🧩 Love building tools that automate tasks and improve developer workflows  
+- 🎧 Debugging + Lo-Fi = Super Saiyan Mode  
 
 ---
 
 ### 🧰 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,nodejs,react,html,css,tailwind,bootstrap,mongodb,git,github,vscode&theme=dark" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,react,ts,js,html,css,tailwind,bootstrap&perline=11" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,flask,django,c,cpp,git,linux,postman,vscode,vite&perline=12" />
+  </a>
+</div>
+
+---
+
+## 👀 Profile Views & Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHAIDSK&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -29,19 +45,78 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SHAIDSK&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIDSK&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 📈 GitHub Activity Graph
 
-- 🔷 **[AlgoView-DSA-Visualizer](https://github.com/ShAiDSk/Progress_Tracker)** – A Modern Interactive Goal Tracking Platform - Laravel 12, PHP 8.4, TailwindCSS, Alpine.js, Vite, SQLite, Breeze Auth, SweetAlert, Custom Blade
-- 🔶 **[DevProfile-Analyzer](https://github.com/ShAiDSk/input-type-api)** – A lightweight Flask API that detects and classifies input types (string, number, float, boolean, email, URL, hash, etc.) with a simple frontend UI for real-time validation.
-- 🔴 **[AlgoView-DSA-Visualizer](https://github.com/SHAIDSK/AlgoView-DSA-Visualizer)** – Visualizes BFS, DFS, QuickSort, and more in React + Tailwind + Framer Motion.
-- 🔶 **[DevProfile-Analyzer](https://github.com/SHAIDSK/DevProfile-Analyzer)** – Analyze competitive profiles from Codeforces and CodeChef.
-- 🧩 **[SHAIDSKCode](https://github.com/SHAIDSK/SHAIDSKCode)** – C++ snippets and templates for CP.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAIDSK&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 Progress Tracker (Laravel 12)
+
+A modern and clean goal tracking platform with streaks, auth, and dashboards.
+
+✔ Laravel 12 • PHP 8.4  
+✔ Breeze Auth • TailwindCSS • Alpine.js  
+✔ Streak monitoring • Custom Blade components
+
+👉 Repo: https://github.com/ShAiDSk/Progress_Tracker
+
+---
+
+### 🔶 DevProfile Analyzer (Flask)
+
+Analyze Codeforces, CodeChef & AtCoder profiles with rating graphs.
+
+✔ BeautifulSoup API scraping  
+✔ Chart.js visualizations  
+✔ Caching engine for fast responses
+
+👉 Repo: https://github.com/SHAIDSK/DevProfile-Analyzer
+
+---
+
+### 🔴 AlgoView – DSA Visualizer (React + TS)
+
+Interactive visualizer for BFS, DFS, QuickSort, MergeSort.
+
+✔ React + TypeScript  
+✔ Framer Motion animations  
+✔ Adjustable speed and steps
+
+👉 Repo: https://github.com/SHAIDSK/AlgoView-DSA-Visualizer
+
+---
+
+### 🟣 Input Type Detector API (Flask)
+
+Detects various input types in real-time with a clean UI.
+
+✔ Email, URL, Boolean, Integer, Float, Hash  
+✔ Python + Flask  
+✔ Lightweight and fast
+
+👉 Repo: https://github.com/ShAiDSk/input-type-api
+
+---
+
+### 🧩 SHAIDSKCode – CP Snippets
+
+Competitive programming templates used across 1000+ problems.
+
+✔ C++ STL utilities  
+✔ DP, Graphs, Recursion templates  
+✔ Fast I/O utilities
+
+👉 Repo: https://github.com/SHAIDSK/SHAIDSKCode
 
 ---
 
@@ -56,10 +131,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
   <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
+
