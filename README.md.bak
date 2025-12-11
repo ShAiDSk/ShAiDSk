@@ -1,0 +1,211 @@
+<h1 align="center">Hi 👋, I'm SHAID SK</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Competitive+Programmer;Backend+Engineer;Laravel+%7C+Node.js+%7C+Python;DSA+%7C+APIs+%7C+Automation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHAIDSK/SHAIDSK/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+
+<!-- ================== Contribution Snake ================== -->
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SHAIDSK/output/main/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</p>
+
+<!-- ================== GitHub Trophies ================== -->
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHAIDSK&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+<!-- ================== 3D Contribution Calendar ================== -->
+## 🔥 3D Contribution Calendar
+<p align="center">
+  <img src="https://github.com/SHAIDSK/SHAIDSK/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d-contrib"/>
+</p>
+
+<!-- ================== Activity Graph ================== -->
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAIDSK&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph">
+</p>
+
+<!-- ================== Tech Stack Animated Grid ================== -->
+## 💠 Tech Stack Showcase
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,react,ts,js,cpp,flask,django,mysql,mongodb,sqlite,tailwind,bootstrap,linux,git,github,vite,postman&theme=dark&perline=8" alt="skills" />
+</p>
+
+<!-- ================== Visitor Counter & Badges ================== -->
+## 👀 Profile Views & Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHAIDSK&label=Profile%20Views&color=blue&style=for-the-badge" alt="views" />
+  <img src="https://profile-counter.glitch.me/SHAIDSK/count.svg" alt="visitor-counter" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/DSA-1000%2B_Problems-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Laravel-12-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
+</p>
+
+<!-- ================== Animated Divider ================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 💫 About Me
+
+- 🔥 Full Stack Developer focused on **Laravel, Node.js, and Python**
+- 📌 Solved **1000+ DSA problems** across Codeforces, CodeChef & AtCoder
+- 🚀 Currently building advanced apps with:
+  - **AlgoView – DSA Visualizer**
+  - **DevProfile Analyzer**
+  - **Progress Tracker (Laravel)**
+- 🧩 Love building tools that automate workflows and make dev-life smoother
+- 🎧 Fun fact: My debugging power increases with Lo-Fi
+
+---
+
+## 🧰 Languages, Frameworks & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,react,ts,js,html,css,tailwind,bootstrap&perline=11" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,flask,django,c,cpp,git,linux,postman,vscode,vite&perline=12" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SHAIDSK&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIDSK&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 Progress Tracker (Laravel 12)
+**Modern goal and habit tracking platform**
+- Breeze Auth, SweetAlert, Alpine.js, TailwindCSS  
+- Streak system + custom Blade components  
+- RESTful routes, secure CRUD, clean MVC structure  
+
+👉 Repo: **https://github.com/ShAiDSk/Progress_Tracker**
+
+---
+
+### 🔶 DevProfile Analyzer (Flask)
+**Analyze Codeforces, CodeChef, AtCoder profiles**
+- API integration + BeautifulSoup scraping  
+- Rating graphs with Chart.js  
+- Caching system to reduce API load  
+
+👉 Repo: **https://github.com/SHAIDSK/DevProfile-Analyzer**
+
+---
+
+### 🔴 AlgoView – DSA Visualizer (React + TypeScript)
+**Visualizes BFS, DFS, QuickSort, MergeSort**
+- Custom animation engine with Framer Motion  
+- Adjustable speed, dynamic array generation  
+- Interactive UI with real-time algorithm steps  
+
+👉 Repo: **https://github.com/SHAIDSK/AlgoView-DSA-Visualizer**
+
+---
+
+### 🟣 Input Type API (Python + Flask)
+**Detects & classifies string types in real-time**
+- Email, URL, Boolean, Hash, Integer, Float  
+- Simple UI + instant validation  
+
+👉 Repo: **https://github.com/ShAiDSk/input-type-api**
+
+---
+
+### 🧩 SHAIDSKCode – CP Snippets
+**Competitive programming templates & shortcodes**
+- C++ STL utils  
+- Graph, DP, recursion, fast IO  
+- All tools used across 1000+ problems  
+
+👉 Repo: **https://github.com/SHAIDSK/SHAIDSKCode**
+
+---
+
+## 🛠 Professional Experience
+
+### 🧑‍💻 Software & Operations Executive | BFS FINTECH  
+- Built automation pipelines reducing manual work by **60%**  
+- Managed 300+ investment records with MySQL  
+- Integrated financial APIs + optimized backend endpoints  
+- Designed cron-based schedulers for reports & notifications  
+
+### 🧑‍💼 Technical Operations Intern | Woodpecker Finvest  
+- Handled mutual fund backend operations  
+- Automated reconciliation & reporting using Python  
+- Ensured investor platform data accuracy  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itz-shaidsk002" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/SHAIDSK" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <b>"Code is like humor. If you have to explain it, it's bad."</b>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
