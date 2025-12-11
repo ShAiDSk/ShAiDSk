@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs twice a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SHAIDSK
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Commit and push dist to output branch
+        uses: devops-infra/action-push-to-another-repository@v2
+        with:
+          source_dir: "dist"
+          destination_repo: "${{ github.repository }}"
+          destination_branch: "output"
+          destination_dir: ""
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
