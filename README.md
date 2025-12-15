@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm SHAID SK</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Backend+Developer+%7C+Laravel;Node.js+Python;PHP+JavaScript+TypeScript+Java;Django+Flask+SQLite+MongoDB;DSA+Git+Linux+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+Reverb;Real-Time+System+Architect;Python+%7C+Node.js;DSA+Solver+(1000%2B+Problems);Linux+%7C+Git+%7C+Docker" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🔥 Full Stack Developer focusing on **Laravel, Node.js, and Python**
+- 🔥 Full Stack Developer specialized in **Laravel (VILT Stack), Node.js, and Python**
 - 🎯 Solved **1000+ DSA problems** across Codeforces, CodeChef & AtCoder  
-- 🚀 Working on:
-  - **Progress Tracker (Laravel)**
-  - **AlgoView – DSA Visualizer**
-  - **DevProfile Analyzer**
-- 🧠 Passionate about backend systems, automation, and fast APIs  
+- 🚀 **Currently Building:**
+  - **Kali-Chat Messenger** (Real-time VILT Stack App)
+  - **Progress Tracker** (Goal Management)
+  - **AlgoView** (DSA Visualizer)
+- 🧠 Passionate about **WebSockets, Real-Time Data**, and secure backend architecture
 - 🧩 Love building tools that automate tasks and improve developer workflows  
 - 🎧 Debugging + Lo-Fi = Super Saiyan Mode  
 
@@ -24,11 +24,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,python,nodejs,react,ts,js,html,css,tailwind,bootstrap&perline=11" />
+    <img src="https://skillicons.dev/icons?i=laravel,vue,php,python,nodejs,react,ts,js,html,css,tailwind,bootstrap&perline=12" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,flask,django,c,cpp,git,linux,postman,vscode,vite&perline=12" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,flask,django,c,cpp,git,linux,postman,vscode,vite&perline=12" />
   </a>
 </div>
 
@@ -60,14 +60,26 @@
 
 ## 🚀 Featured Projects
 
+### ⚡ Kali-Chat Messenger (VILT Stack)
+
+A high-performance, real-time chat application with a Cyber-SaaS aesthetic.
+
+✔ **Laravel 11 • Vue 3 • Inertia.js • Tailwind CSS** ✔ **Laravel Reverb** (WebSockets) for zero-latency messaging  
+✔ **Features:** Live User Presence, Read Receipts (Double Ticks), Secure Private Channels  
+✔ **UI/UX:** 3D Tilt Physics, Drag & Drop Media Sharing, Holographic Glassmorphism  
+
+👉 Repo: https://github.com/ShAiDSk/kali_chat-messenger
+
+---
+
 ### 🔷 Progress Tracker (Laravel 12)
 
-A modern and clean goal tracking platform with streaks, auth, and dashboards.
+A modern goal tracking platform with streaks, auth, and analytics dashboards.
 
 ✔ Laravel 12 • PHP 8.4  
 ✔ Breeze Auth • TailwindCSS • Alpine.js  
-✔ Streak monitoring • Custom Blade components </br>
-✔ Other Tech Stack: SQLite, SweetAlert, RESTful routing, MVC architecture, session management, custom Blade templates, migration system.
+✔ Streak monitoring • Custom Blade components  
+✔ Tech Stack: SQLite, SweetAlert, RESTful routing, MVC architecture.
 
 👉 Repo: https://github.com/ShAiDSk/Progress_Tracker
 
@@ -79,7 +91,7 @@ Analyze Codeforces, CodeChef & AtCoder profiles with rating graphs.
 
 ✔ BeautifulSoup API scraping  
 ✔ Chart.js visualizations  
-✔ Caching engine for fast responses </br>
+✔ Caching engine for fast responses  
 ✔ Tech Stack: Flask | Python | BeautifulSoup | Chart.js
 
 👉 Repo: https://github.com/SHAIDSK/DevProfile-Analyzer
@@ -92,7 +104,7 @@ Interactive visualizer for BFS, DFS, QuickSort, MergeSort.
 
 ✔ React + TypeScript  
 ✔ Framer Motion animations  
-✔ Adjustable speed and steps </br>
+✔ Adjustable speed and steps  
 ✔ Tech Stack: React | TypeScript | Framer Motion | TailwindCSS
 
 👉 Repo: https://github.com/SHAIDSK/AlgoView-DSA-Visualizer
@@ -139,4 +151,3 @@ Competitive programming templates used across 1000+ problems.
   <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </p>
-
