@@ -200,7 +200,7 @@ fun_fact:       1000+ DSA problems · Codeforces · CodeChef · AtCoder
 
 ---
 
-### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/BFSWealth">BFSWealth</a>
+### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://brothersfinancialsolutions.com/">BFSWealth</a>
 
 **Enterprise-grade wealth CRM · Multi-vertical financial services · AI intelligence · Portfolio management**
 
@@ -261,7 +261,7 @@ fun_fact:       1000+ DSA problems · Codeforces · CodeChef · AtCoder
 
 ---
 
-### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/kyroventures">Kyro Ventures</a>
+### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://kyroventures.com">Kyro Ventures</a>
 
 **AI-driven equity research subscription platform — built for the Indian market**
 
