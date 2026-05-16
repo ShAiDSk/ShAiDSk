@@ -8,7 +8,7 @@
 <!-- ═══════════════════════════════  H E A D E R  ═══════════════════════════════ -->
 
 <a href="https://github.com/ShAiDSk">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30,5,20&height=280&section=header&text=SHAID%20SK&fontSize=78&fontAlignY=34&fontColor=ffffff&animation=fadeIn&desc=%E2%9C%A8%20Quiet%20mind.%20Loud%20code.%20%F0%9F%A7%98%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB%20%E2%9C%A8&descAlignY=56&descSize=20" width="100%" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30,5,20&height=280&section=header&text=Shaid%20SK&fontSize=78&fontAlignY=34&fontColor=ffffff&animation=fadeIn&desc=%E2%9C%A8%20Quiet%20mind.%20Loud%20code.%20%F0%9F%A7%98%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%92%BB%20%E2%9C%A8&descAlignY=56&descSize=20" width="100%" alt="header banner" />
 </a>
 
 <div align="center">
@@ -38,6 +38,15 @@
   <img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Distributed%20Systems-7928CA?style=for-the-badge&labelColor=0d1117&logo=apachekafka&logoColor=white" alt="focus" />
   <img src="https://img.shields.io/badge/LOCATION-Kolkata%2C%20India-F25278?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=white" alt="location" />
   <img src="https://img.shields.io/badge/GRADUATING-Aug%202026-00BFFF?style=for-the-badge&labelColor=0d1117&logo=academia&logoColor=white" alt="grad" />
+
+  <br/>
+
+  <a href="https://brothersfinancialsolutions.com">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE-brothersfinancialsolutions.com-00DC82?style=for-the-badge&labelColor=0d1117" alt="bfs live" />
+  </a>
+  <a href="https://kyroventures.com">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE-kyroventures.com-00DC82?style=for-the-badge&labelColor=0d1117" alt="kyro live" />
+  </a>
 
 </div>
 
@@ -191,9 +200,16 @@ fun_fact:       1000+ DSA problems · Codeforces · CodeChef · AtCoder
 
 ---
 
-### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/BFSWealth">BFSWealth</a> &nbsp; <img src="https://img.shields.io/badge/PRIVATE-FF0080?style=flat-square&logo=lock&logoColor=white&labelColor=0d1117" />
+### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/BFSWealth">BFSWealth</a>
 
 **Enterprise-grade wealth CRM · Multi-vertical financial services · AI intelligence · Portfolio management**
+
+<p>
+  <a href="https://brothersfinancialsolutions.com">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live%20Company%20Site-brothersfinancialsolutions.com-00DC82?style=for-the-badge&labelColor=0d1117" alt="live company site" />
+  </a>
+  <img src="https://img.shields.io/badge/CRM%20Source-Private-FF0080?style=for-the-badge&logo=lock&logoColor=white&labelColor=0d1117" alt="private" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Role-Sole%20Full--Stack%20Engineer-00BFFF?style=flat-square&labelColor=0d1117" />
@@ -245,9 +261,16 @@ fun_fact:       1000+ DSA problems · Codeforces · CodeChef · AtCoder
 
 ---
 
-### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/kyroventures">Kyro Ventures</a> &nbsp; <img src="https://img.shields.io/badge/PRIVATE-FF0080?style=flat-square&logo=lock&logoColor=white&labelColor=0d1117" />
+### <img src="https://github.com/ShAiDSk.png" width="22" /> <a href="https://github.com/ShAiDSk/kyroventures">Kyro Ventures</a>
 
 **AI-driven equity research subscription platform — built for the Indian market**
+
+<p>
+  <a href="https://kyroventures.com">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Platform-kyroventures.com-00DC82?style=for-the-badge&labelColor=0d1117" alt="live platform" />
+  </a>
+  <img src="https://img.shields.io/badge/Source-Private-FF0080?style=for-the-badge&logo=lock&logoColor=white&labelColor=0d1117" alt="private" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer-00BFFF?style=flat-square&labelColor=0d1117" />
@@ -299,9 +322,15 @@ ArchUnit-enforced boundaries (CI-failing): `api.*` is public, `internal.*` is mo
 
 ---
 
-### 🔒 BFS Web Platform &nbsp; <img src="https://img.shields.io/badge/LIVE-00DC82?style=flat-square&labelColor=0d1117" />
+### 🔒 BFS Web Platform
 
 **Public marketing site + email infrastructure**
+
+<p>
+  <a href="https://brothersfinancialsolutions.com">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Live-brothersfinancialsolutions.com-00DC82?style=for-the-badge&labelColor=0d1117" alt="live" />
+  </a>
+</p>
 
 Owned the full stack from **DNS to deploy** for [brothersfinancialsolutions.com](https://brothersfinancialsolutions.com) — public site, DNS records, SPF/DKIM/DMARC email auth, Hostinger hosting, performance and SEO tuning.
 
@@ -608,7 +637,10 @@ Owned the full stack from **DNS to deploy** for [brothersfinancialsolutions.com]
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <a href="https://brothersfinancialsolutions.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/BFS%20Site-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="bfs" />
+  </a>
+  <a href="https://kyroventures.com">
+    <img src="https://img.shields.io/badge/Kyro%20Ventures-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="kyroventures" />
   </a>
   <a href="https://wa.me/919563364882">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
